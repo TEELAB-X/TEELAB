@@ -4,16 +4,19 @@ repository: https://github.com/TEELAB-X/TEELAB
 
 timezone: Asia/Shanghai
 
-name: TEELAB
+title: TEELAB
+description: Official Website
+url: http://teelab.net/
+
 author: iROCKBUNNY
 author_url: http://irockbunny.com
 organization: TEELAB
 organization_url: http://teelab.net
-description: Official Website
-url: http://teelab.net/
+
 contact: contact[at]teelab[dot]net
 github: https://github.com/TEELAB-X
 
+image: /img/Avatar.png
 logo: /img/Avatar.png
 
 plugins:
